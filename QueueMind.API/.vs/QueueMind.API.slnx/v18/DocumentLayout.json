@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\johan\\Downloads\\QueueMind.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\queuemind.api\\queuemind.api\\patterns\\state\\iturnstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\patterns\\state\\iturnstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\queuemind.api\\queuemind.api\\models\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\models\\turn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\queuemind.api\\queuemind.api\\controllers\\turnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\controllers\\turnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ITurnState.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Patterns\\State\\ITurnState.cs",
+              "RelativeDocumentMoniker": "QueueMind.API\\Patterns\\State\\ITurnState.cs",
+              "ToolTip": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Patterns\\State\\ITurnState.cs",
+              "RelativeToolTip": "QueueMind.API\\Patterns\\State\\ITurnState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:48:01.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Turn.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Models\\Turn.cs",
+              "RelativeDocumentMoniker": "QueueMind.API\\Models\\Turn.cs",
+              "ToolTip": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Models\\Turn.cs",
+              "RelativeToolTip": "QueueMind.API\\Models\\Turn.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:47:20.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TurnsController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Controllers\\TurnsController.cs",
+              "RelativeDocumentMoniker": "QueueMind.API\\Controllers\\TurnsController.cs",
+              "ToolTip": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Controllers\\TurnsController.cs",
+              "RelativeToolTip": "QueueMind.API\\Controllers\\TurnsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T14:46:23.777Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
