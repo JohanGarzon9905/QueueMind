@@ -2,16 +2,11 @@
 {
     public class TurnAllocator
     {
-        private IAssignmentStrategy _strategy;
+        private readonly IAssignmentStrategy _strategy;
 
-        public void SetStrategy(IAssignmentStrategy strategy)
+        public TurnAllocator(IAssignmentStrategy strategy)
         {
             _strategy = strategy;
-        }
-
-        public int Allocate(List<int> operators)
-        {
-            return _strategy.Assign(operators);
         }
     }
 }
