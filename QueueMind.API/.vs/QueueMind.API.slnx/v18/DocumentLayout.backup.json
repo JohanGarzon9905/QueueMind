@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\johan\\Downloads\\QueueMind.API\\",
+  "WorkspaceRootPath": "C:\\Users\\johan\\Downloads\\Arquitectura\\QueueMind\\QueueMind.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\queuemind.api\\queuemind.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\queuemind.api\\queuemind.api\\patterns\\state\\turnstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\patterns\\state\\turnstatefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\queuemind.api\\queuemind.api\\controllers\\turnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\controllers\\turnscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\queuemind.api\\queuemind.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\queuemind.api\\queuemind.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|c:\\users\\johan\\downloads\\arquitectura\\queuemind\\queuemind.api\\queuemind.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D8FC0D1-4AD1-E76F-386A-F646BB21ADAE}|QueueMind.API\\QueueMind.API.csproj|solutionrelative:queuemind.api\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,71 +14,20 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TurnStateFactory.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Patterns\\State\\TurnStateFactory.cs",
-              "RelativeDocumentMoniker": "QueueMind.API\\Patterns\\State\\TurnStateFactory.cs",
-              "ToolTip": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Patterns\\State\\TurnStateFactory.cs",
-              "RelativeToolTip": "QueueMind.API\\Patterns\\State\\TurnStateFactory.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:49:38.151Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Program.cs",
-              "RelativeDocumentMoniker": "QueueMind.API\\Program.cs",
-              "ToolTip": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Program.cs",
-              "RelativeToolTip": "QueueMind.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-31T00:22:18.546Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\appsettings.json",
-              "RelativeDocumentMoniker": "QueueMind.API\\appsettings.json",
-              "ToolTip": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\appsettings.json",
-              "RelativeToolTip": "QueueMind.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-31T00:22:09.927Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "TurnsController.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Controllers\\TurnsController.cs",
-              "RelativeDocumentMoniker": "QueueMind.API\\Controllers\\TurnsController.cs",
-              "ToolTip": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Controllers\\TurnsController.cs",
-              "RelativeToolTip": "QueueMind.API\\Controllers\\TurnsController.cs",
-              "ViewState": "AgIAAE8AAAAAAAAAAAAAwGYAAAAAAAAAAAAAAA==",
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\Arquitectura\\QueueMind\\QueueMind.API\\QueueMind.API\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "QueueMind.API\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\johan\\Downloads\\Arquitectura\\QueueMind\\QueueMind.API\\QueueMind.API\\Controllers\\TestController.cs",
+              "RelativeToolTip": "QueueMind.API\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T01:44:39.469Z",
+              "WhenOpened": "2026-05-03T16:00:49.291Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "QueueMind.API\\Controllers\\UsersController.cs",
-              "ToolTip": "C:\\Users\\johan\\Downloads\\QueueMind.API\\QueueMind.API\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "QueueMind.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA3wCUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-28T01:43:51.374Z"
             }
           ]
         }

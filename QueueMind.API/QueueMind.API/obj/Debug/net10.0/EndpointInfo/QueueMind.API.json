@@ -5,6 +5,18 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Test/log": {
+      "get": {
+        "tags": [
+          "Test"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/Turns": {
       "get": {
         "tags": [
@@ -423,6 +435,9 @@
     }
   },
   "tags": [
+    {
+      "name": "Test"
+    },
     {
       "name": "Turns"
     },

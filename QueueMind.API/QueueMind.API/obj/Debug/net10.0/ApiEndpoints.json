@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "QueueMind.API.Controllers.TestController",
+    "Method": "SendLog",
+    "RelativePath": "api/Test/log",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "QueueMind.API.Controllers.TurnsController",
     "Method": "GetTurns",
     "RelativePath": "api/Turns",
